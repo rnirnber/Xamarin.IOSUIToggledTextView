@@ -9,7 +9,9 @@ Sample usage:
 >>var toggled_txt_view = new UITextView();
 >
 >>toggled_txt_view.AddBoundItem("Foo", 18f);
+
 >>toggled_txt_view.AddBoundItem("Bar", 22f);
+
 >>toggled_txt_view.AddBoundItem("Car", 32f);
 
 >>// every 2 secs
