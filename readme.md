@@ -6,7 +6,7 @@ Synopsis:
 Derived from UIKit.UITextView, flashes different pieces of text data items on a user-defined interval. For each data item in the list, it has its own font-size. Automatically centers text vertically, since it's assumed that the class will be used for flashy, demonstrative purposes.
 
 Sample usage:
->>var toggled_txt_view = new UITextView();
+>>var toggled_txt_view = new UIToggledTextView();
 >
 >>toggled_txt_view.AddBoundItem("Foo", 18f);
 
