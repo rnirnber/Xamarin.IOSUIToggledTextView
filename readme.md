@@ -15,4 +15,5 @@ Sample usage:
 >>toggled_txt_view.AddBoundItem("Car", 32f);
 
 >>// every 2 secs
+
 >toggled_txt_view.StartToggling(2.0);
